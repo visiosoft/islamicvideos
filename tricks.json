@@ -210,10 +210,10 @@
         "isFeatured": true
       },
       {
-        "id": "21",
+        "id": "20",
         "title": "Power Of Science",
         "description": "Reveal unique  Power Of Science. Perfect for beginners!",
-        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/21.mp4",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/20.mp4",
         "thumbnailUrl": "https://img.youtube.com/vi/JONlFsDACS8/hqdefault.jpg",
         "duration": 100,
         "categories": ["magic of science"],
