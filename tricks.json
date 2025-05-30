@@ -221,10 +221,10 @@
         "isFeatured": true
       },
       {
-        "id": "22",
+        "id": "21",
         "title": "Power of Physics ",
         "description": "Reveal unique Power of Physics . Perfect for beginners!",
-        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/22.mp4",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/21.mp4",
         "thumbnailUrl": "https://img.youtube.com/vi/vlgWAplGnAI/hqdefault.jpg",
         "duration": 100,
         "categories": ["magic of science"],
