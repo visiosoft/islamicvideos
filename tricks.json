@@ -100,11 +100,11 @@
         "isFeatured": true
       },
       {
-        "id": "11",
-        "title": "Optical Illusions ",
-        "description": "unique magic Optical Illusions tricks. Perfect for beginners!",
-        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/11.mp4",
-        "thumbnailUrl": "https://img.youtube.com/vi/1Wj9ZXwbF6k/hqdefault.jpg",
+        "id": "10",
+        "title": "Khane Se Pehle Ki Dua ",
+        "description": "#dua #meals #food",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/islamicvideo/main/10.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/cBOLVbj8JDw/hqdefault.jpg",
         "duration": 100,
         "categories": ["optical illusions"],
         "isPro": false,
