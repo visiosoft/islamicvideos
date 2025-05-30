@@ -89,11 +89,11 @@
         "isFeatured": true
       },
       {
-        "id": "10",
-        "title": "illusion ",
-        "description": "Reveal unique illusion  MAGIC TRICKS . Perfect for beginners!",
-        "videoUrl": "https://raw.githubusercontent.com/visiosoft/videostreaming/main/10.mp4",
-        "thumbnailUrl": "https://img.youtube.com/vi/WO6ouIbufk4/hqdefault.jpg",
+        "id": "9",
+        "title": "Kids Islamic stories",
+        "description": " UNITED KINGDOM",
+        "videoUrl": "https://raw.githubusercontent.com/visiosoft/islamicvideo/main/9.mp4",
+        "thumbnailUrl": "https://img.youtube.com/vi/TEYfqLTvGxQ/hqdefault.jpg",
         "duration": 100,
         "categories": ["optical illusions"],
         "isPro": false,
